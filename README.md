@@ -32,6 +32,13 @@
 <p dir="rtl">
 <strong><a href="https://docs.google.com/document/d/1BA8t5-qKIBhLCSQFKYVx9syLgFAapT6lXDlLHpM0jmg/edit">الجزء الثالث</a></strong></p>
  
-
+- قم بانشاء function باسم padel_balls_cost
+- الـ function تاخذ argument باسم ball_boxes
+- احسب سعر شراء الكرات مستعينًا بالآتي:
+  - اذا تم شراء box واحد يكون السعر 2
+  - اذا تم شراء two boxes يكون السعر 3.5
+  - اذا تم شراء three boxes  يكون السعر 5
+- قم بارجاع السعر 
+ 
  
 </div>
