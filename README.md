@@ -18,16 +18,20 @@
 <p dir="rtl">
 <strong><a href="https://docs.google.com/document/d/1sA89c0LxxoBCoTHY9UvwdLftiFQ1g3EhAYEMoltLLTg/edit#">الجزء الثاني</a></strong></p>
 
-
+- قم بانشاء function باسم rackets_cost
+- الـ function تاخذ argument باسم racket_brand
+- الـ function تقوم بارجاع اسعار مختلفة على حسب الـ racket brand
+ ```
+ Bullpadel: 100
+ Nox: 140
+ Siux: 200
+ ```
+ 
+ 
  <h1></h1>
 <p dir="rtl">
 <strong><a href="https://docs.google.com/document/d/1BA8t5-qKIBhLCSQFKYVx9syLgFAapT6lXDlLHpM0jmg/edit">الجزء الثالث</a></strong></p>
  
-- قم بانشاء function باسم cube تاخذ argument باسم number 
-- اجعل الـ function تقوم بارجاع (return) مكعب الرقم (the number to the power of 3)
-- قم بانشاء function ثانية باسم by_three وتاخذ argument باسم number:
-  - اذا كان الرقم يقبل القسمة على 3 استخدم cube(number) function وقم بارجاع الناتج
-  - اذا كان لا يقبل القسمة على 3 قم بارجاع false
 
  
 </div>
