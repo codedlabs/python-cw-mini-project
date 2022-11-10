@@ -53,12 +53,12 @@
  number of ball boxes
  ```
 - استخدم الـ functions الذي قمت بانشائهم سابقًا ( padel_court_cost, padel_balls_cost, rackets_cost ) 
-- قم بارجاع مجموع تواتج الـ functions
+- قم بارجاع مجموع نواتج الـ functions
 - قم بطباعة سعر الـ game اذا كان:
  ```
  hours: 3
- court_type: "indoors"
- racket_brand: "Adidas"
+ court_type: indoors
+ racket_brand: Adidas
  ball_boxes: 2
  ```
  
