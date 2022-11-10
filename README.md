@@ -40,5 +40,26 @@
   - اذا تم شراء three boxes  يكون السعر 5
 - قم بارجاع السعر 
  
+ <h1></h1>
+<p dir="rtl">
+<strong><a href="https://docs.google.com/document/d/1BA8t5-qKIBhLCSQFKYVx9syLgFAapT6lXDlLHpM0jmg/edit">الجزء الرابع</a></strong></p>
+ 
+- قم بانشاء function باسم padel_game_cost
+- الـ function لا تاخذ اي arguments 
+- داخل الـ function اطلب من المستخدم ادخال الآتي:
+ ```
+ the court type
+ racket brand
+ number of ball boxes
+ ```
+- استخدم الـ functions الذي قمت بانشائهم سابقًا ( padel_court_cost, padel_balls_cost, rackets_cost ) 
+- قم بارجاع مجموع تواتج الـ functions
+- قم بطباعة سعر الـ game اذا كان:
+ ```
+ hours: 3
+ court_type: "indoors"
+ racket_brand: "Adidas"
+ ball_boxes: 2
+ ```
  
 </div>
