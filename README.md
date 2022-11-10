@@ -58,7 +58,7 @@
  ```
  hours: 3
  court_type: indoors
- racket_brand: Adidas
+ racket_brand: Nox
  ball_boxes: 2
  ```
  
